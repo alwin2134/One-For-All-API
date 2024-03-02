@@ -5,7 +5,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/alwin2134/One-For-All-API)
 -->
 ![GitHub stars](https://img.shields.io/github/stars/alwin2134/One-For-All-API?label=Stars)
-![GitHub forks](https://img.shields.io/github/forks/alwin2134/One-For-All-API?label=Forks)
+![GitHub forks](https://img.shields.io/github/forks/alwin2134/One-For-All-API?label=forks)
 
 ## Description
 
@@ -105,6 +105,13 @@ The Movies branch provides movie details based on the provided movie title.
 
 /api/movies?apiKey=YOUR_API_KEY&query=MOVIE_TITLE
 
+## Example
+
+- [Weather Example](https://github.com/alwin2134/One-For-All-API/blob/main/Examples/Weather.py)
+- [ChatGPT Example](https://github.com/alwin2134/One-For-All-API/blob/main/Examples/ChatGPT.py)
+- [Market Data Example](https://github.com/alwin2134/One-For-All-API/blob/main/Examples/Marke_Data.py)
+- [News Example](https://github.com/alwin2134/One-For-All-API/blob/main/Examples/News.py)
+- [Movies Example](https://github.com/alwin2134/One-For-All-API/blob/main/Examples/News.py)
 
 ## Contributors
 
