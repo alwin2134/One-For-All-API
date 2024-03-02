@@ -1,7 +1,9 @@
 # One-For-All API Documentation
 
+<!--
 ![GitHub repo size](https://img.shields.io/github/repo-size/alwin2134/One-For-All-API)
 ![GitHub contributors](https://img.shields.io/github/contributors/alwin2134/One-For-All-API)
+-->
 ![GitHub stars](https://img.shields.io/github/stars/alwin2134/One-For-All-API?label=Stars)
 ![GitHub forks](https://img.shields.io/github/forks/alwin2134/One-For-All-API?label=Forks)
 
